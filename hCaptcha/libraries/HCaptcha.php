@@ -1,6 +1,6 @@
 <?php
 
-use function PHPUnit\Framework\isEmpty;
+
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
